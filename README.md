@@ -9,8 +9,8 @@ A app pode ser baixada nas lojas:
 
 ## Sumário
 
-- [Código de exemplo para integração](#codigo-de-exemplo-para-integracao)
-- [Documentação](#documentacao)
+- [Código de exemplo para integração](#código-de-exemplo-para-integração)
+- [Documentação](#documentação)
 
 ## Código de exemplo para integração
 
